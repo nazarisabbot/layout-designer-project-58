@@ -1,0 +1,38 @@
+:root {
+  --white: #fff;
+  --transparent-white-05: #d7ccc0;
+  --light: #f5f4f0;
+  --main-color: #fe8a02;
+  --main-dark: #42413c;
+  --dark: #2a2626;
+  --transparent-dark-05: #908d8b;
+  --brown: #b09a81;
+  --blue: #1085c5;
+
+  --basic-font: "Open Sans", serif;
+  --support-font: "Neucha", serif;
+
+  --basic-font-size: 16px;
+  --basic-line-height: 1.6em;
+
+  --basic-color-font: var(--dark);
+
+  --h-line-height: 1.2em;
+  --h1-font-size: 72px;
+  --h2-font-size: 60px;
+  --h3-font-size: 34px;
+
+  --basic-width-container: 1110px;
+  --basic-padding-container: 100px;
+}
+
+/* font-family: "Open Sans", serif;
+font-optical-sizing: auto;
+font-weight: <weight>;
+font-style: normal;
+font-variation-settings: "wdth" 100; 
+
+font-family: "Neucha", serif;
+font-weight: 400;
+font-style: normal;
+*/
